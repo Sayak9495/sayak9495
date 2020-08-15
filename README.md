@@ -1,9 +1,8 @@
 ## `Hi there, I'm Sayak 👋 `
-### `Solving one probelm at a time.`
+### Solving one probelm at a time.
 
 [![Website](https://img.shields.io/website?label=sayaksen.in&style=for-the-badge&url=http%3A%2F%2Fsayaksen.in)](http://sayaksen.in)
 
----
 ## DuckItUp 
 ![alt text](https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg "Logo Title Text 1")
 
