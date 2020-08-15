@@ -1,10 +1,10 @@
-## `Hi there, I'm Sayak 👋 `
+## Hi there, I'm Sayak 👋
 ### Solving one probelm at a time.
 
 [![Website](https://img.shields.io/website?label=sayaksen.in&style=for-the-badge&url=http%3A%2F%2Fsayaksen.in)](http://sayaksen.in)
 
 ## DuckItUp 
-![alt text](https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg "Logo Title Text 1")
+![DuckDuckGo](https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg "DuckDuckGo")
 
 
 DuckItUp integrates search google button and movie rating system. 
@@ -16,6 +16,7 @@ DuckDuckGo Enhancer or DuckItUp is an unofficial extension that provides few pro
 --- 
 
 <p align="center">
+  <a href="https://dev.to/sayak9495"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/sayaksen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/sayaksen"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/sayak9495"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
