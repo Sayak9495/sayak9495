@@ -1,4 +1,4 @@
-## Hi there, I'm Sayak 👋
+<h1 align="center"> Hi there, I'm Sayak 👋 </h1>
 ### Solving one probelm at a time.
 
 [![Website](https://img.shields.io/website?label=sayaksen.in&style=for-the-badge&url=http%3A%2F%2Fsayaksen.in)](http://sayaksen.in)
