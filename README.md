@@ -3,7 +3,7 @@
 ### Solving one probelm at a time.
 ![Profile Views](https://komarev.com/ghpvc/?username=sayak9495)
 
-[![Website](https://img.shields.io/website?label=sayaksen.in&style=for-the-badge&url=http%3A%2F%2Fsayaksen.in)](http://sayaksen.in)
+[![Website](https://img.shields.io/website?label=sayaksen.in&style=for-the-badge&url=https%3A%2F%2Fsayaksen.in)](https://sayaksen.in)
 
 
 
